@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import gsap from "gsap";
 import jeremy from "./assets/image-jeremy.png";
-import Card from "./components/card";
+import Card from "./components/Card";
 import work from "./assets/icon-work.svg";
 import play from "./assets/icon-play.svg";
 import study from "./assets/icon-study.svg";
