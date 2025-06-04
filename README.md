@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/HammamYousef/time-tracking-dashboard](https://github.com/HammamYousef/time-tracking-dashboard)
-- Live Site URL: [https://time-tracking-dashboard-hammam.vercel.app/](https://time-tracking-dashboard-hammam.vercel.app/)
+- Solution URL: https://www.frontendmentor.io/solutions/time-tracking-with-gsap-H04N4hTkor
+- Live Site URL: https://time-tracking-dashboard-9fze.vercel.app/
 
 ## My process
 
